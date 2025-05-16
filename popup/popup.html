@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>视频下载插件</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>视频下载器</h1>
+        <ul id="videoList"></ul>
+        <dialog id="copyDialog">
+            <div>链接已复制到剪贴板</div>
+        </dialog>
+        <dialog id="downloadDialog">
+            <div>下载已开始，请稍候...</div>
+        </dialog>
+        <div id="no-video" class="not-found" style="display: none;">
+            <p>未在当前页面找到支持的视频</p>
+            <p>当前支持的网站：</p>
+            <ul>
+                <li>pornhub.com</li>
+                <li>xvideos.com</li>
+            </ul>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
