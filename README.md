@@ -4,6 +4,8 @@ Violently ported from zgao's Chrome extension.
 
 一个用于下载pornhub和xvideos视频的Firefox addon。暴力移植自zgao大佬的chrome插件。
 
+Chrome版本下载[Chrome-Video-Downloader-Plugin.zip](https://github.com/user-attachments/files/20261989/Chrome-Video-Downloader-Plugin.zip)
+
 ### ✨ 主要功能
 
 - 自动识别并解析支持网站的视频源
