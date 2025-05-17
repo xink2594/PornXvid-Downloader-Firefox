@@ -1,4 +1,4 @@
-# p_x_downloader_firefox
+# PornXvid-Downloader-Firefox
 A Firefox addon for downloading videos from pornhub and xvideos.
 Violently ported from zgao's Chrome extension.
 
