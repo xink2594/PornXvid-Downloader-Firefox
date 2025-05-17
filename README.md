@@ -23,7 +23,7 @@ Chrome版本下载[Chrome-Video-Downloader-Plugin.zip](https://github.com/user-a
 由于扩展内容性质，我们提供两种安装方式：
 
 1. **直接下载XPI文件安装**：
-   - 从本页面下载 `p&x-downloader.xpi` 文件
+   - 从本页面下载 `p-x-downloader.xpi` 文件
    - 在Firefox中打开 `about:addons` 页面
    - 点击⚙️图标，选择"从文件安装附加组件"
    - 选择下载的XPI文件并确认安装
